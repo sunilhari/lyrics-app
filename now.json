@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "echo",
+  "name": "react-suspense-trials",
   "builds": [
     {
       "src": "package.json",

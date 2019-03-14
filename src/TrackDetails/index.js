@@ -1,5 +1,5 @@
 import React from "react";
-import { unstable_createResource } from "react-cache";
+import { unstable_createResource } from "../vendor/react-cache";
 import { fetchLyrics } from "../api";
 import Spinner from "../Spinner";
 

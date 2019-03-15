@@ -9,7 +9,8 @@
     "react": "16.8.0-alpha.1",
     "react-dom": "16.8.0-alpha.1",
     "react-scripts": "2.1.8",
-    "scheduler": "^0.13.4"
+    "scheduler": "^0.13.4",
+    "react-cache": "file:./src/vendor/react-cache"
   },
   "scripts": {
     "start": "react-scripts start",

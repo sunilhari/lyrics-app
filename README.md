@@ -1,10 +1,8 @@
-# Lyrics App.
 
 <center>
 <img src="./src/logo.png" height="200px"/>
-<h1><a href="https://react-suspense-trials.now.sh/">Lyrics App</a></h1>
 </center>
-
+<center><h1><a href="https://react-suspense-trials.now.sh/">Lyrics App</a></h1></center>
 A simple application that shows a set of lyrics.
 
 Sample implementation of concurrent React

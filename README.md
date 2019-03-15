@@ -1,7 +1,11 @@
-# React Suspense Demo.
+# Lyrics App.
+
+<center><img src="./src/logo.png" height="200px"/></center>
+
+A simple application that shows a set of lyrics.
 
 Sample implementation of concurrent React
 
-Should use [react-cache](https://github.com/palmerhq/the-platform/blob/master/example/vendor/react-cache/react-cache.development.js) from here as there is version compatibility issue.
+Should use `react-cache` from [here](https://github.com/palmerhq/the-platform/blob/master/example/vendor/react-cache/react-cache.development.js)  as there is version compatibility issue.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
